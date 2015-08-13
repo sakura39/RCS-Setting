@@ -34,7 +34,7 @@
         "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "rdj":                  "http://i.imgur.com/FKz8sQr.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "autocomplete": [],
