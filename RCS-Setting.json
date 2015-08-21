@@ -35,7 +35,9 @@
         "manager":              "http://orig13.deviantart.net/86b1/f/2013/027/8/6/hatsune_miku_favicon_by_scantykneesocks-d5svpbm.gif",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "http://i.imgur.com/uMP1fgP.png",
-        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
+        "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+       //"http://i.imgur.com/FKz8sQr.png"
+       //"https://cdn.radiant.dj/rcs/icons/radiant/manager.png"
     },
     "autocomplete": [],
     "emotes": {
