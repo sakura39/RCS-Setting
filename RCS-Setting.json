@@ -1,17 +1,17 @@
 ﻿{
-    "room":                     "Radiant Music",
+    "room":                     "OU-Anime",
     "author":                   "Origin",
     "icon":                     "http://i.imgur.com/7GwfOEd.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
-        "allowAutojoin":        false,
+        "allowAutojoin":        true,
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
         "allowShowingMehs":     true,
-        "forceSmartVote":       false
+        "forceSmartVote":       true
     },
     "ccc": {
         "admin":                "#42A5DC",
@@ -34,9 +34,9 @@
         "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "http://i.imgur.com/FKz8sQr.png",
+        "rdj":                  "http://i.imgur.com/uMP1fgP.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
-        "id:6435763":           "http://i.imgur.com/uMP1fgP.png"
+        "temp":                 "http://i.imgur.com/FKz8sQr.png"
     },
     "autocomplete": [],
     "emotes": {
